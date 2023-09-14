@@ -18,8 +18,8 @@ function func_basic {
             --output_image_dir $output_image_dir \
             --output_scene_dir $output_scene_dir \
             --output_blend_dir $output_blend_dir \
-            --width 108 \
-            --height 80 \
+            --width 214 \
+            --height 160 \
             --save_blendfiles
     done
 }
